@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modern Art UI</string>
+    <string name="action_more_info">Thông Tin Ứng Dụng</string>
+    <string name="dialog_title">ASSIGNMENT 1</string>
+    <string name="dialog_message">QUÁ TRÌNH 1 - 3120410046 - ĐẶNG CHÍ BẢO</string>
+    <string name="visit_sgu">FB-SGU</string>
+    <string name="not_now">Thoát</string>
+</resources>
